@@ -14,6 +14,16 @@ Realistic economy game focused on simplified logic and fun.
 
 I consider the available economy management games too complex or boring.
 
+## Why Godot?
+
+The Godot engine allows you to save a lot of time in development because of the node system, where the relationship between the game components is very easily and fast to implement things.
+
+Also because of GDScript, the Godot scripting language allows you to write less code to implement things.
+
+## Why Redot?
+
+Read [this](https://www.redotengine.org/blog/redot-why-we-forked) article.
+
 ## Chat
 
 - [Discord](https://discord.gg/d9ca4U64H4)
@@ -47,7 +57,7 @@ git clone https://github.com/hardBSDk/scarsim
 ## How To Contribute
 
 - Give a star to this repository, it will increase our chances to receive contributions.
-- Download the [Godot Engine](https://godotengine.org/) 4.x version (normal variant, not C#)
+- Download the [Redot Engine](https://redotengine.org/) 4.x version (normal variant, not C#)
 - Verify the open issues and select some item to work on
 - Once ready, send a pull request (if you are adding commits on the PR branch, mark it as draft status)
 - Send the link of your pull requests on the "Pull Requests" channel/room on [Discord](https://discord.gg/tk6Vnxv9Qt) or [Matrix](https://matrix.to/#/!vIwqjDewTZpciZqhEp:matrix.org?via=matrix.org).
